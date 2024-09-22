@@ -1,1 +1,93 @@
 
+import requests
+from bs4 import BeautifulSoup
+import re
+import pandas as pd
+import time
+
+# 아마존 케이뷰티 - 더페이스샵 리뷰 페이지 URL
+base_url = 'https://www.amazon.in/Face-Shop-Ceramide-Moisturizing-Skincare/product-reviews/B091DC8Z3Y'
+
+# 사용자 에이전트 및 기타 헤더 설정
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Referer': 'https://www.amazon.in/',
+    'Connection': 'keep-alive',
+    'DNT': '1',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'same-origin',
+    'Sec-Fetch-User': '?1'
+}
+
+# 리뷰 데이터 수집 함수
+def get_reviews(url, headers):
+    review_data = []
+
+    while True:
+        try:
+            response = requests.get(url, headers=headers)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.content, 'html.parser')
+                reviews = soup.find_all('div', {'data-hook': 'review'})
+                
+                for review in reviews:
+                    # 리뷰어 이름
+                    reviewer_name = review.find('span', {'class': 'a-profile-name'}).text.strip()
+                    if not reviewer_name:
+                      continue
+                    
+                    # 별점 추출
+                    star_rating = review.find('i', {'data-hook': 'review-star-rating'}).text
+                    star_rating = int(re.search(r'(\d+)', star_rating).group(1))
+                    star_display = '★' * star_rating + '☆' * (5 - star_rating)
+                    if not star_rating:
+                      continue
+                    
+                    # 리뷰 날짜에서 'Reviewed in India on' 제거
+                    review_date = review.find('span', {'data-hook': 'review-date'}).text.strip()
+                    review_date = re.sub(r'Reviewed in India on ', '', review_date)
+                    if not review_date:
+                        continue
+          
+                    # 리뷰 내용 (None 방지)
+                    review_text = review.find('span', {'data-hook': 'review-body'}).text.strip()
+                    if not review_text:
+                        continue
+                    
+                    # 리뷰 데이터를 리스트에 추가
+                    review_data.append([reviewer_name, star_display, review_date, review_text])
+                
+                # 다음 페이지로 이동
+                next_page = soup.find('li', {'class': 'a-last'})
+                if next_page and next_page.find('a'):
+                    next_url = 'https://www.amazon.in' + next_page.find('a')['href']
+                    url = next_url
+                    time.sleep(1)  # 요청 간 간격 조절
+                else:
+                    break
+            else:
+                print(f"Failed to retrieve data: {response.status_code}")
+                break
+
+        except Exception as e:
+            print(f"Error occurred: {e}")
+            break
+
+    return review_data
+
+# 고정된 폭으로 출력
+def print_reviews_fixed_width(df):
+    print(f"{'Reviewer Name':<30}{'Rating':<10}{'Date':<20}{'Review':<80}")
+    print("=" * 140)
+    for index, row in df.iterrows():
+        print(f"{row['Reviewer Name']:<30}{row['Rating']:<10}{row['Date']:<20}{row['Review']:<80}")
+
+# 데이터 수집 후 출력
+if __name__ == "__main__":
+    reviews = get_reviews(base_url, headers)
+    df = pd.DataFrame(reviews, columns=['Reviewer Name', 'Rating', 'Date', 'Review'])
+    print_reviews_fixed_width(df)
