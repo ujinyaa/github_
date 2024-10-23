@@ -1,0 +1,31 @@
+package com.example.ggum.domain.user.controller;
+
+import com.example.ggum.domain.user.dto.ResponseDTO;
+import com.example.ggum.domain.user.dto.UserDTO;
+import com.example.ggum.domain.user.entity.User;
+import com.example.ggum.domain.user.service.SearchService;
+import com.example.ggum.domain.board.service.CategoryService;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+@CrossOrigin(origins = "http://localhost:3000")
+@Slf4j
+@RestController
+@RequestMapping("/api/v1/user/mypage")
+public class SearchController {
+
+    @Autowired
+    private mypageService searchService;
+
+    @Autowired
+    private UserService UserService;
+
+   
+   
+
+
+}
