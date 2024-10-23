@@ -1,0 +1,64 @@
+
+package com.example.ggum.domain.user.controller;
+
+import com.example.ggum.domain.user.dto.ResponseDTO;
+import com.example.ggum.domain.user.dto.UserDTO;
+import com.example.ggum.domain.user.entity.User;
+import com.example.ggum.domain.user.service.SearchService;
+import com.example.ggum.domain.board.service.CategoryService;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+@CrossOrigin(origins = "http://localhost:3000")
+@Slf4j
+@RestController
+@RequestMapping("/api/v1/search")
+public class SearchController {
+
+    @Autowired
+    private SearchService searchService;
+
+    @Autowired
+    private CategoryService categoryService;
+
+    // 카테고리 서비스를 통해 모든 카테고리 가져오기
+    @GetMapping("/categories")
+    public ResponseEntity<List<String>> getAllCategories() {
+        List<String> categories = categoryService.getAllCategories();
+        return ResponseEntity.ok(categories);
+    }
+
+    // 카테고리, 검색 필드(제목 또는 내용), 키워드를 이용한 검색 기능
+    @GetMapping("/search")
+    public ResponseEntity<List<SearchResult>> search(
+            @RequestParam(value = "category", required = true) String category,
+            @RequestParam(value = "keyword", required = true) String keyword) {
+
+        // 필드는 "title", "content"로 지정하지 않고 제목이나 내용을 모두 포함한 결과를 반환
+        List<SearchResult> results = searchService.search(category, keyword);
+
+        return ResponseEntity.ok(results);
+    }
+}
+
+@Service
+public class SearchService {
+
+    public List<SearchResult> search(String category, String keyword) {
+        List<SearchResult> results = new ArrayList<>();
+
+        // 제목과 내용 모두에서 키워드가 포함된 결과 가져오기
+        results = searchByTitleOrContentAndCategory(keyword, category);
+        
+        return results;
+    }
+
+    private List<SearchResult> searchByTitleOrContentAndCategory(String keyword, String category) {
+        // 제목 또는 내용에 키워드가 포함되고 카테고리에 해당하는 결과 검색하는 로직 구현
+        return new ArrayList<>();
+    }
+}
