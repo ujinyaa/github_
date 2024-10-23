@@ -24,21 +24,23 @@ public class SearchController {
 
     @Autowired
     private CategoryService categoryService;
+		//request api명세서에는 board, erd에는 post
 
     // 카테고리 서비스를 통해 모든 카테고리 가져오기
+		//erd에는 post_category 타입이 ENUM으로 명시
     @GetMapping("/categories")
     public ResponseEntity<List<String>> getAllCategories() {
         List<String> categories = categoryService.getAllCategories();
         return ResponseEntity.ok(categories);
     }
 
-    // 카테고리, 검색 필드(제목 또는 내용), 키워드를 이용한 검색 기능
+    // 불러온 카테고리 키워드를 이용한 검색 기능
     @GetMapping("/search")
     public ResponseEntity<List<SearchResult>> search(
             @RequestParam(value = "category", required = true) String category,
             @RequestParam(value = "keyword", required = true) String keyword) {
 
-        // 필드는 "title", "content"로 지정하지 않고 제목이나 내용을 모두 포함한 결과를 반환
+        // 필드는 카테고리 키워드 넘겨서 게시판 제목이나 내용을 모두 포함한 결과를 반환
         List<SearchResult> results = searchService.search(category, keyword);
 
         return ResponseEntity.ok(results);
@@ -58,7 +60,7 @@ public class SearchService {
     }
 
     private List<SearchResult> searchByTitleOrContentAndCategory(String keyword, String category) {
-        // 제목 또는 내용에 키워드가 포함되고 카테고리에 해당하는 결과 검색하는 로직 구현
+        // 게시판 제목 또는 내용에 키워드 + 카테고리에 해당하는 결과 검색하는 로직 구현
         return new ArrayList<>();
     }
 }
