@@ -1,0 +1,3884 @@
+{
+    "음식점정보": [
+        {
+            "name": "팽오리농장",
+            "type": "오리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 73
+        },
+        {
+            "name": "크라이치즈버거 역곡점",
+            "type": "햄버거",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 98
+        },
+        {
+            "name": "남경중화요리",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 21
+        },
+        {
+            "name": "하남돼지집 부천역곡점",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 3.1,
+            "review_count": 15
+        },
+        {
+            "name": "급냉삼겹살",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 17
+        },
+        {
+            "name": "치킨플러스 부천가톨릭대점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 10
+        },
+        {
+            "name": "지지고 부천가톨릭대점",
+            "type": "도시락",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 9
+        },
+        {
+            "name": "메가MGC커피 부천가톨릭대점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 5
+        },
+        {
+            "name": "나의유부",
+            "type": "초밥,롤",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 53
+        },
+        {
+            "name": "승록이네 역곡점",
+            "type": "떡볶이",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 20
+        },
+        {
+            "name": "꿈꾸는다락방",
+            "type": "뷔페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 153
+        },
+        {
+            "name": "교촌치킨 역곡2동점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 24
+        },
+        {
+            "name": "스타벅스 역곡역DT점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 39
+        },
+        {
+            "name": "투썸플레이스 부천MJ컨벤션점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 11
+        },
+        {
+            "name": "컴포즈커피 부천카톨릭대점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 0
+        },
+        {
+            "name": "김부삼 역곡점",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 36
+        },
+        {
+            "name": "도미노피자 소사역곡점",
+            "type": "피자",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 4
+        },
+        {
+            "name": "신전떡볶이 부천역곡점",
+            "type": "떡볶이",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 0
+        },
+        {
+            "name": "울엄마손칼국시",
+            "type": "국수",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 14
+        },
+        {
+            "name": "새우식탁",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 21
+        },
+        {
+            "name": "고품달",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 36
+        },
+        {
+            "name": "학교가는길",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 148
+        },
+        {
+            "name": "맥도날드 부천역곡역DT점",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 2.7,
+            "review_count": 89
+        },
+        {
+            "name": "삼복가",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 1.8,
+            "review_count": 17
+        },
+        {
+            "name": "신동랩",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 351
+        },
+        {
+            "name": "이석민피자",
+            "type": "피자",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 0
+        },
+        {
+            "name": "한솥도시락 가톨릭대점",
+            "type": "도시락",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 1
+        },
+        {
+            "name": "탕화쿵푸마라탕 역곡점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 8
+        },
+        {
+            "name": "대박이네족발",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "털보네오리불고기",
+            "type": "오리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 5
+        },
+        {
+            "name": "예촌",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "냉삼마을 정육식당 역곡점",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 14
+        },
+        {
+            "name": "오르다",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 3
+        },
+        {
+            "name": "면식당 부천카톨릭대점",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 2.8,
+            "review_count": 31
+        },
+        {
+            "name": "마포숯불갈비",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "스시마리오 역곡본점",
+            "type": "초밥,롤",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 17
+        },
+        {
+            "name": "1983피자앤펍",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 2.5,
+            "review_count": 18
+        },
+        {
+            "name": "맘스터치 부천카톨릭대점",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 0
+        },
+        {
+            "name": "대박닭한마리칼국수 본점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 31
+        },
+        {
+            "name": "호식당",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 22
+        },
+        {
+            "name": "파리바게뜨 카톨릭대점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "오부장치킨 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 8
+        },
+        {
+            "name": "밀다",
+            "type": "디저트카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 39
+        },
+        {
+            "name": "메밀꽃",
+            "type": "두부전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 5
+        },
+        {
+            "name": "이삭토스트",
+            "type": "토스트",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 5
+        },
+        {
+            "name": "카페하랑 가톨릭대점",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "마고피자",
+            "type": "피자",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 498
+        },
+        {
+            "name": "이디야커피 가톨릭대점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "롯데리아 역곡역점",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 9
+        },
+        {
+            "name": "장군집",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 141
+        },
+        {
+            "name": "믿음수산 역곡점",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 38
+        },
+        {
+            "name": "1847샐러드&샌드위치 가톨릭대점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "오닝케이크",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 7
+        },
+        {
+            "name": "홍천식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 1
+        },
+        {
+            "name": "황금루",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 5
+        },
+        {
+            "name": "쇼샤돈부리",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 13
+        },
+        {
+            "name": "칠공통닭 소사본점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 8
+        },
+        {
+            "name": "본맛송탄부대찌개 역곡점",
+            "type": "찌개,전골",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 5
+        },
+        {
+            "name": "바지락칼국수수제비",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 4.9,
+            "review_count": 11
+        },
+        {
+            "name": "원조춘천숯불닭갈비 본관",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 53
+        },
+        {
+            "name": "동대문엽기떡볶이 부천역곡점",
+            "type": "떡볶이",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 21
+        },
+        {
+            "name": "원조신림동순대타운",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 34
+        },
+        {
+            "name": "따붕",
+            "type": "간식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "킹콩부대찌개 부천역곡점",
+            "type": "찌개,전골",
+            "address1": "",
+            "address2": "",
+            "rating": 2.9,
+            "review_count": 60
+        },
+        {
+            "name": "매머드익스프레스 부천가톨릭대학교점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 1
+        },
+        {
+            "name": "유림식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "찌마기 부천역곡점",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 47
+        },
+        {
+            "name": "북경",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 1
+        },
+        {
+            "name": "민물매운탕앤추어탕",
+            "type": "매운탕,해물탕",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "꼬밥",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "토천손칼국수",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 10
+        },
+        {
+            "name": "순이케이크",
+            "type": "떡,한과",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 29
+        },
+        {
+            "name": "바다사랑",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "그리다갤러리카페",
+            "type": "갤러리카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 15
+        },
+        {
+            "name": "남가네설악추어탕 역곡점",
+            "type": "추어",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 27
+        },
+        {
+            "name": "초원갈비",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 7
+        },
+        {
+            "name": "카페바나당",
+            "type": "디저트카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 22
+        },
+        {
+            "name": "카페드림 가톨릭대학교성심캠퍼스중앙도서관점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 0
+        },
+        {
+            "name": "카페소사",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.9,
+            "review_count": 53
+        },
+        {
+            "name": "번양집",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 0
+        },
+        {
+            "name": "씽씽닭꼬치 역곡점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "히잇",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 27
+        },
+        {
+            "name": "고메이플레이스 가톨릭대 학생회관점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "맛닭꼬 부천역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 10
+        },
+        {
+            "name": "더53",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 13
+        },
+        {
+            "name": "압록강양꼬치양다리",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 86
+        },
+        {
+            "name": "포케얌",
+            "type": "샐러드",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 2
+        },
+        {
+            "name": "할머니떡볶이",
+            "type": "떡볶이",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 15
+        },
+        {
+            "name": "읍천리382 부천역곡점",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 54
+        },
+        {
+            "name": "떡보의하루 소사점",
+            "type": "떡,한과",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "복사골소머리곰탕 본점",
+            "type": "곰탕",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 20
+        },
+        {
+            "name": "중경홍중샤브뷔페",
+            "type": "중식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 77
+        },
+        {
+            "name": "기막힌감자탕&칡냉면 역곡점",
+            "type": "감자탕",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "아임카츠 가톨릭대점",
+            "type": "돈까스,우동",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "모야그집",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 4
+        },
+        {
+            "name": "김기룽쟝족발덮밥",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "파파케이크",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 12
+        },
+        {
+            "name": "하노이맥주밤거리 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 37
+        },
+        {
+            "name": "피제이피자 소사역곡점",
+            "type": "피자",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 5
+        },
+        {
+            "name": "원조설악추어탕",
+            "type": "추어",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 0
+        },
+        {
+            "name": "속은타고목은마르고지금먹고싶다",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 4.9,
+            "review_count": 4
+        },
+        {
+            "name": "역전할머니맥주 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 4
+        },
+        {
+            "name": "맛드림푸드 역곡점",
+            "type": "감자탕",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 2
+        },
+        {
+            "name": "카페 보나",
+            "type": "구내식당",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "박지혜청담국밥 가톨릭대점",
+            "type": "국밥",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "소사왕갈비",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 24
+        },
+        {
+            "name": "부온 프란조",
+            "type": "구내식당",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "원조할매보쌈족발",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "써머케이크",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 10
+        },
+        {
+            "name": "가톨릭대학교 성심교정 교직원식당",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "리로즈케이크",
+            "type": "떡,한과",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 50
+        },
+        {
+            "name": "8개월냉면",
+            "type": "냉면",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 217
+        },
+        {
+            "name": "카페노랑",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 3
+        },
+        {
+            "name": "성심떡방",
+            "type": "떡,한과",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "피자&베이커리 델리 라운지",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "오늘의조각",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "리김밥",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "복덩이순대국",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 13
+        },
+        {
+            "name": "커피파로스 가톨릭대점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 2
+        },
+        {
+            "name": "한강로부엌 가톨릭대점",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "고메이플레이스 가톨릭대 김수환관점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "달콤할시간",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 3
+        },
+        {
+            "name": "낭만짚불구이 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 13
+        },
+        {
+            "name": "멘야시오리",
+            "type": "일본식라면",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 50
+        },
+        {
+            "name": "가톨릭대학교 성심교정 학생식당",
+            "type": "구내식당",
+            "address1": "",
+            "address2": "",
+            "rating": 1.0,
+            "review_count": 0
+        },
+        {
+            "name": "닭발자국 부천역곡점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 2.3,
+            "review_count": 11
+        },
+        {
+            "name": "후우링",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 25
+        },
+        {
+            "name": "무한육채미 역곡점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 15
+        },
+        {
+            "name": "배불리찌개 역곡점",
+            "type": "찌개,전골",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 10
+        },
+        {
+            "name": "카페만월경 부천소사점",
+            "type": "무인카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "Shawarma 사위마",
+            "type": "양식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "등촌샤브칼국수 역곡점",
+            "type": "샤브샤브",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 31
+        },
+        {
+            "name": "영어카페OBF",
+            "type": "테마카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "착한돈삼이네 역곡점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 80
+        },
+        {
+            "name": "문달식당",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 3.1,
+            "review_count": 149
+        },
+        {
+            "name": "립플레이",
+            "type": "양식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 100
+        },
+        {
+            "name": "와우바베큐통닭",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "소문난곱창 역곡점",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "전주막걸리포차",
+            "type": "술집",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 73
+        },
+        {
+            "name": "나비루 역곡점",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 9
+        },
+        {
+            "name": "BBQ 역곡역점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 2.0,
+            "review_count": 1
+        },
+        {
+            "name": "매화스시",
+            "type": "초밥,롤",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 24
+        },
+        {
+            "name": "조아저씨빵집",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 98
+        },
+        {
+            "name": "메가MGC커피 부천괴안삼거리점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 0
+        },
+        {
+            "name": "한성국밥 소사점",
+            "type": "국밥",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 14
+        },
+        {
+            "name": "해심",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 15
+        },
+        {
+            "name": "탐나종합어시장 역곡역점",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 46
+        },
+        {
+            "name": "춘천골닭갈비",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 53
+        },
+        {
+            "name": "역전할머니맥주 부천소사점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 17
+        },
+        {
+            "name": "호철이네정육식당",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 47
+        },
+        {
+            "name": "뻥쟁이네 역곡남부점",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 127
+        },
+        {
+            "name": "다방구",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "신제일보양탕감자탕",
+            "type": "사철탕,영양탕",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "떡볶이플러스 역곡가톨릭대점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "기떡찜 부천가톨릭대점",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "용호동낙지 부천역곡역점",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 19
+        },
+        {
+            "name": "청춘옥",
+            "type": "삼계탕",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 21
+        },
+        {
+            "name": "몽블랑제 홈플러스익스프레스 부천역곡점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "철길부산집 부천역곡역점",
+            "type": "실내포장마차",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 34
+        },
+        {
+            "name": "꼬장솥뚜껑삼겹살 역곡본점",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 23
+        },
+        {
+            "name": "샌드",
+            "type": "샌드위치",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 7
+        },
+        {
+            "name": "사위마",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "크리스피크림도넛 역곡역점",
+            "type": "도넛",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 21
+        },
+        {
+            "name": "가대돈스",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "손면수타",
+            "type": "중식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "황제한우소곱창",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 11
+        },
+        {
+            "name": "마부마라탕 소사점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 11
+        },
+        {
+            "name": "버거리 역곡역점",
+            "type": "햄버거",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "미소램양꼬치",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 12
+        },
+        {
+            "name": "장어먹자",
+            "type": "장어",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 20
+        },
+        {
+            "name": "아빠짬뽕",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 31
+        },
+        {
+            "name": "주경야돈 역곡점",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "까르디에스프레소바",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 73
+        },
+        {
+            "name": "왕뚜껑",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 10
+        },
+        {
+            "name": "돈엔돈부리 역곡점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "불티매운족발 소사점",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "삼미정",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 2
+        },
+        {
+            "name": "집쌈",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "재료가8할숙성회",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 22
+        },
+        {
+            "name": "소담촌 역곡직영점",
+            "type": "샤브샤브",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 108
+        },
+        {
+            "name": "일품양평해장국 부천소사역점",
+            "type": "해장국",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 3
+        },
+        {
+            "name": "완도 백반집",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "조개본능",
+            "type": "조개",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 8
+        },
+        {
+            "name": "소세지야 부천가톨릭대점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "바리",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 11
+        },
+        {
+            "name": "육회주막",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 31
+        },
+        {
+            "name": "용용선생 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 217
+        },
+        {
+            "name": "화로집",
+            "type": "장어",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 28
+        },
+        {
+            "name": "로고스카페",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 11
+        },
+        {
+            "name": "할리스 역곡역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 1
+        },
+        {
+            "name": "와우누룽지바베큐치킨",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "촌가한정식",
+            "type": "한정식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 3
+        },
+        {
+            "name": "88닭발 역곡점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 37
+        },
+        {
+            "name": "오닭꼬치 역곡점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 3
+        },
+        {
+            "name": "블랑제르베네",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 0
+        },
+        {
+            "name": "별난아이스25 역곡점",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 2
+        },
+        {
+            "name": "교촌치킨 괴안점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 1.7,
+            "review_count": 0
+        },
+        {
+            "name": "채영진의 명품생고기무한리필 소사직영점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 62
+        },
+        {
+            "name": "육미제당 소사본동점",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 34
+        },
+        {
+            "name": "피자마루 역곡북부점",
+            "type": "피자",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 2
+        },
+        {
+            "name": "횡성생고기 부천본점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 5
+        },
+        {
+            "name": "엉터리생고기무한대패 소사역점",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 16
+        },
+        {
+            "name": "춘천애닭갈비",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 13
+        },
+        {
+            "name": "금자네수산",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 49
+        },
+        {
+            "name": "이자카야감",
+            "type": "일본식주점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 35
+        },
+        {
+            "name": "데이롱카페 부천역곡점",
+            "type": "무인카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 3
+        },
+        {
+            "name": "바다랑회마차",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 20
+        },
+        {
+            "name": "플로리안",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 5
+        },
+        {
+            "name": "청년감자탕순대국 역곡점",
+            "type": "감자탕",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 214
+        },
+        {
+            "name": "옛날장터치킨",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 2.7,
+            "review_count": 6
+        },
+        {
+            "name": "궁전다방",
+            "type": "다방",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "돗괴기고팡",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 38
+        },
+        {
+            "name": "두찜 부천역곡점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 4
+        },
+        {
+            "name": "라홍방마라탕 역곡점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 5
+        },
+        {
+            "name": "들깨랑보리보리",
+            "type": "국수",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 129
+        },
+        {
+            "name": "대가보양탕",
+            "type": "사철탕,영양탕",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "컴포즈커피 부천역곡점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.1,
+            "review_count": 6
+        },
+        {
+            "name": "마라공간",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 5
+        },
+        {
+            "name": "식껍 역곡점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 45
+        },
+        {
+            "name": "놀러와",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "사조회참치 역곡점",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 2.8,
+            "review_count": 3
+        },
+        {
+            "name": "견인지역 역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.9,
+            "review_count": 45
+        },
+        {
+            "name": "스타벅스 소사역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 39
+        },
+        {
+            "name": "길성장",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 5
+        },
+        {
+            "name": "빽다방 소사역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "써브웨이 부천역곡역점",
+            "type": "샌드위치",
+            "address1": "",
+            "address2": "",
+            "rating": 2.5,
+            "review_count": 1
+        },
+        {
+            "name": "크림롤카페",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 2
+        },
+        {
+            "name": "던킨 부천역곡점",
+            "type": "도넛",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 12
+        },
+        {
+            "name": "맘스터치 부천역곡점",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 2.1,
+            "review_count": 4
+        },
+        {
+            "name": "옛날홍두깨손칼국수",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "거기가",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "손선호웰빙함흥냉면",
+            "type": "냉면",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 39
+        },
+        {
+            "name": "개성집",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "카페드림 기톨릭대중앙도서관점",
+            "type": "간식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "달떡볶이 역곡점",
+            "type": "떡볶이",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "대흥손칼국수",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "화호이",
+            "type": "베트남음식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 34
+        },
+        {
+            "name": "인디케이크",
+            "type": "디저트카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "일품마라탕 역곡북부역점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 10
+        },
+        {
+            "name": "동해안붉은대게무한리필 역곡점",
+            "type": "게,대게",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 1
+        },
+        {
+            "name": "샐러디아 부천역곡점",
+            "type": "샐러드",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 17
+        },
+        {
+            "name": "우후죽순 역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 9
+        },
+        {
+            "name": "컴포즈커피 부천소사남부역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 3
+        },
+        {
+            "name": "쪼계찜닭 역곡점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 7
+        },
+        {
+            "name": "정이든소곱창전골",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 4.9,
+            "review_count": 30
+        },
+        {
+            "name": "바나나쉽 2호점",
+            "type": "아이스크림",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 0
+        },
+        {
+            "name": "4969피자",
+            "type": "피자",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "명가순대국",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 23
+        },
+        {
+            "name": "홈런즉석떡볶이 부천역곡점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "배큰아이",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 0
+        },
+        {
+            "name": "갱촌해장",
+            "type": "해장국",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 5
+        },
+        {
+            "name": "수정황소곱창",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 6
+        },
+        {
+            "name": "춘향골남원추어탕",
+            "type": "추어",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 6
+        },
+        {
+            "name": "진도식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 5
+        },
+        {
+            "name": "오복순대국",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 0
+        },
+        {
+            "name": "인쌩맥주 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 16
+        },
+        {
+            "name": "오토김밥 부천역곡점",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 9
+        },
+        {
+            "name": "취한달밤",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 31
+        },
+        {
+            "name": "여의도카레주먹밥",
+            "type": "주먹밥",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "오부장치킨 괴안점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 2
+        },
+        {
+            "name": "고기싸롱 역곡점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 2.0,
+            "review_count": 28
+        },
+        {
+            "name": "아리랑식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "행족 본점",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "샹그릴라 따반띠엔",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 50
+        },
+        {
+            "name": "전준수명품청기와감자탕 역곡역점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 4
+        },
+        {
+            "name": "라화쿵부 부천소사역점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 10
+        },
+        {
+            "name": "웅이네오돌뼈 소사범안점",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 26
+        },
+        {
+            "name": "수작카츠 역곡점",
+            "type": "돈까스,우동",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 51
+        },
+        {
+            "name": "소사양꼬치",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 35
+        },
+        {
+            "name": "1인자감자탕 역곡점",
+            "type": "감자탕",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 13
+        },
+        {
+            "name": "경아네실내포차",
+            "type": "실내포장마차",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "홍우정 본점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 22
+        },
+        {
+            "name": "붕짱",
+            "type": "간식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 10
+        },
+        {
+            "name": "카페 쇼메르",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 1.0,
+            "review_count": 5
+        },
+        {
+            "name": "황금동태 역곡점",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 10
+        },
+        {
+            "name": "삼일포차",
+            "type": "실내포장마차",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 5
+        },
+        {
+            "name": "화덕 고등어한상",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 2.8,
+            "review_count": 11
+        },
+        {
+            "name": "경화네실비포차",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "오브",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 69
+        },
+        {
+            "name": "명품3.8소갈비살",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 8
+        },
+        {
+            "name": "썬더치킨 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 10
+        },
+        {
+            "name": "역전다방",
+            "type": "다방",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "꼬치포차탄",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 24
+        },
+        {
+            "name": "붕붕볶음밥",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "엠엠엠디저트",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "BHC치킨 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 5
+        },
+        {
+            "name": "카츠백 역곡옥길점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "역전할머니맥주(소사점)",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 4
+        },
+        {
+            "name": "국가대패 소사역점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 17
+        },
+        {
+            "name": "국민삼겹살",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 1
+        },
+        {
+            "name": "민트핫도그",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "올드앤뉴",
+            "type": "술집",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 0
+        },
+        {
+            "name": "멜랑쥐스토어",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "초록빛",
+            "type": "술집",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 38
+        },
+        {
+            "name": "종로장군족발보쌈 역곡점",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 3.6,
+            "review_count": 26
+        },
+        {
+            "name": "김부삼",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "보드람치킨 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 10
+        },
+        {
+            "name": "신의주찹쌀순대 소사본점",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 7
+        },
+        {
+            "name": "춘천숯불닭갈비2",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 5
+        },
+        {
+            "name": "삼거리식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "사랑방",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 0
+        },
+        {
+            "name": "심정다방",
+            "type": "다방",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "닭다리순살하나만제대로하는집 부천센터점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "무안노들강",
+            "type": "한정식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 0
+        },
+        {
+            "name": "황제갈비살 역곡점",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 98
+        },
+        {
+            "name": "메가MGC커피 역곡북부역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 7
+        },
+        {
+            "name": "TMB숯불바베큐 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 7
+        },
+        {
+            "name": "소사양곱대",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 40
+        },
+        {
+            "name": "신믿음수산",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "너랑. 다시You. Re",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "퍽퍽살이싫어내가만든치킨집 부천센터점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "콩심 부천역곡점",
+            "type": "국밥",
+            "address1": "",
+            "address2": "",
+            "rating": 3.1,
+            "review_count": 4
+        },
+        {
+            "name": "쫄만이",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "토담옛날통닭 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 5
+        },
+        {
+            "name": "식어도바삭한동서재닭강정 부천센터점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "카페뜨락",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "파파스치킨",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 2
+        },
+        {
+            "name": "짜장마켓",
+            "type": "중식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 9
+        },
+        {
+            "name": "비로소 베이커리",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "은행나무갈매기 역곡16호점",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 23
+        },
+        {
+            "name": "냠냠숯불두마리치킨 부천소사점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "돼지방",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "카페쇼메르",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "임자도횟집",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 21
+        },
+        {
+            "name": "행족",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 3
+        },
+        {
+            "name": "꽃님맥주",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 8
+        },
+        {
+            "name": "대한주점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 18
+        },
+        {
+            "name": "본도시락 역곡점",
+            "type": "도시락",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "배스킨라빈스 역곡남부점",
+            "type": "아이스크림",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 4
+        },
+        {
+            "name": "마스터통삼겹",
+            "type": "삼겹살",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "어쩌다마주친술집",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "역마차순대국",
+            "type": "국밥",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "춘덕산숯불장어",
+            "type": "장어",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 5
+        },
+        {
+            "name": "윤갈비 2호점",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 8
+        },
+        {
+            "name": "처갓집양념치킨 괴안점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 2
+        },
+        {
+            "name": "분더커피바",
+            "type": "디저트카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 298
+        },
+        {
+            "name": "크라운호프 역곡역점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 8
+        },
+        {
+            "name": "소라관",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 5
+        },
+        {
+            "name": "한끼한죽 역곡점",
+            "type": "죽",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "맥주가맛있는집",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.9,
+            "review_count": 6
+        },
+        {
+            "name": "육회지존 역곡점",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 12
+        },
+        {
+            "name": "윤서양갈비참숯구이",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 36
+        },
+        {
+            "name": "위드유디저트",
+            "type": "디저트카페",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 12
+        },
+        {
+            "name": "역곡풍천민물장어",
+            "type": "장어",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 3
+        },
+        {
+            "name": "101파스타 일공일파스타",
+            "type": "이탈리안",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "소문난칼국수",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "다다미참치",
+            "type": "참치회",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 6
+        },
+        {
+            "name": "삼양식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 1
+        },
+        {
+            "name": "소곱창일번지",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 60
+        },
+        {
+            "name": "곱창이네",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 2
+        },
+        {
+            "name": "명품국밥",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "생각하는곰",
+            "type": "디저트카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "김밥보석비빔밥 역곡역점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 2.1,
+            "review_count": 60
+        },
+        {
+            "name": "우정한식",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "오또케이크",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 38
+        },
+        {
+            "name": "더치앤빈 소사생생병원점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "흙다방",
+            "type": "다방",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "흑돈&김치찜",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 0
+        },
+        {
+            "name": "송이식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "정가네생선구이전문",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 16
+        },
+        {
+            "name": "스마일도너츠",
+            "type": "도넛",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 6
+        },
+        {
+            "name": "바우네나주곰탕",
+            "type": "곰탕",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 8
+        },
+        {
+            "name": "백세한방삼계탕",
+            "type": "삼계탕",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 6
+        },
+        {
+            "name": "혜영반점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 16
+        },
+        {
+            "name": "복촌뼈해장국삼겹살",
+            "type": "해장국",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "투썸커피 역곡CGV스윗바점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "본가닭탕",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.2,
+            "review_count": 89
+        },
+        {
+            "name": "원할머니보쌈 부천역곡점",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 9
+        },
+        {
+            "name": "타코야퀸",
+            "type": "간식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 5
+        },
+        {
+            "name": "컴포즈커피 부천소사북부역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 3
+        },
+        {
+            "name": "돼지네",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "금별맥주 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 2.0,
+            "review_count": 14
+        },
+        {
+            "name": "본죽&비빔밥cafe 역곡북부역점",
+            "type": "퓨전한식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 10
+        },
+        {
+            "name": "모퉁이",
+            "type": "술집",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "서가네소왕갈비탕 소사본점",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 334
+        },
+        {
+            "name": "역전우동0410 역곡역북부점",
+            "type": "돈까스,우동",
+            "address1": "",
+            "address2": "",
+            "rating": 1.2,
+            "review_count": 5
+        },
+        {
+            "name": "두메산골토종흑염소영양탕",
+            "type": "사철탕,영양탕",
+            "address1": "",
+            "address2": "",
+            "rating": 1.0,
+            "review_count": 0
+        },
+        {
+            "name": "삼층카페",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.5,
+            "review_count": 45
+        },
+        {
+            "name": "국민우유집 카페숍 역곡점",
+            "type": "간식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "황소곱창구이",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 0
+        },
+        {
+            "name": "지코바 괴안1호점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 1.0,
+            "review_count": 3
+        },
+        {
+            "name": "별이커피호프",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "족발팩토리 역곡역점",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 3.0,
+            "review_count": 6
+        },
+        {
+            "name": "하르당 부천역곡역점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 1
+        },
+        {
+            "name": "씩스어클락",
+            "type": "칵테일바",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 19
+        },
+        {
+            "name": "파리바게뜨 성가시장점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.4,
+            "review_count": 2
+        },
+        {
+            "name": "불로만숯불바베큐 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "손가갈비찜",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 4
+        },
+        {
+            "name": "Cafe Sosa",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "동백",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 1
+        },
+        {
+            "name": "홍두깨손칼국수",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 46
+        },
+        {
+            "name": "하삼동커피 부천소사역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 2.0,
+            "review_count": 9
+        },
+        {
+            "name": "메가MGC커피 소사역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "커피에반하다 소사구청점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 1
+        },
+        {
+            "name": "역곡회쎈타",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "파리바게뜨 역곡역남부점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 2.1,
+            "review_count": 5
+        },
+        {
+            "name": "프룻킹",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 2
+        },
+        {
+            "name": "자미당 찹쌀꽈배기 과자점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "루이튀김꼬치 소사점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "찰찰보리식빵",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 8
+        },
+        {
+            "name": "녘곡",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "허니호프",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "진미숯불고기",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 1.0,
+            "review_count": 4
+        },
+        {
+            "name": "가르텐비어 부천역곡점",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 13
+        },
+        {
+            "name": "찐하오마라탕 역곡점",
+            "type": "중식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 3
+        },
+        {
+            "name": "더베이크 소사역점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 4
+        },
+        {
+            "name": "원조남원추어탕",
+            "type": "추어",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 3
+        },
+        {
+            "name": "토시래 부천역곡역점",
+            "type": "족발,보쌈",
+            "address1": "",
+            "address2": "",
+            "rating": 2.3,
+            "review_count": 14
+        },
+        {
+            "name": "경기부천소사지역자활센터 음식점",
+            "type": "",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "최은미순대국",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 3.7,
+            "review_count": 2
+        },
+        {
+            "name": "복래관",
+            "type": "중식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "지리산흑돼지",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "석이네곱창",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "자담치킨 부천역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 9
+        },
+        {
+            "name": "바람난오징어 역곡북부역점",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "사오",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 6
+        },
+        {
+            "name": "상상빈대떡",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 27
+        },
+        {
+            "name": "장원칼국수",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 5
+        },
+        {
+            "name": "BBQ 부천역곡CGV점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 2.0,
+            "review_count": 8
+        },
+        {
+            "name": "루나솔",
+            "type": "술집",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "황금풍천장어숯불꼼장어",
+            "type": "장어",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 17
+        },
+        {
+            "name": "배스킨라빈스 역곡북부점",
+            "type": "아이스크림",
+            "address1": "",
+            "address2": "",
+            "rating": 3.9,
+            "review_count": 4
+        },
+        {
+            "name": "환상의섬",
+            "type": "회",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 15
+        },
+        {
+            "name": "특별한면",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "태능숯불갈비",
+            "type": "갈비",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 5
+        },
+        {
+            "name": "신대원 괴안점",
+            "type": "중국요리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 3
+        },
+        {
+            "name": "해장쿡 부천소사점",
+            "type": "해장국",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "역곡오리",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "원소곱창",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "청년치킨 소사역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "무교낙지식당",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "본참다랑어",
+            "type": "참치회",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 16
+        },
+        {
+            "name": "호밀호두 소사역점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "홍두깨칼국수 본점",
+            "type": "칼국수",
+            "address1": "",
+            "address2": "",
+            "rating": 4.6,
+            "review_count": 7
+        },
+        {
+            "name": "대박만두",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "한마당식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "그레이지",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 23
+        },
+        {
+            "name": "만랩커피 부천역곡점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 11
+        },
+        {
+            "name": "금하식당",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "맛나",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "버거킹 부천역곡점",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 17
+        },
+        {
+            "name": "하이뷰",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "본죽 부천성모병원점",
+            "type": "죽",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 1
+        },
+        {
+            "name": "커피이즈",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "백소정 역곡역점",
+            "type": "일식",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 679
+        },
+        {
+            "name": "병천토속순대",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 12
+        },
+        {
+            "name": "한아름 곱창",
+            "type": "곱창,막창",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 68
+        },
+        {
+            "name": "곰바우남도음식점",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "닭한마리칼국수",
+            "type": "닭요리",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "소새울양과점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 28
+        },
+        {
+            "name": "하얀집돈까스 역곡소사점",
+            "type": "돈까스,우동",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "장미",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "역곡제육볶음전문 역곡CGV점",
+            "type": "한식",
+            "address1": "",
+            "address2": "",
+            "rating": 4.1,
+            "review_count": 5
+        },
+        {
+            "name": "육회&연어is콤마",
+            "type": "해물,생선",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "외갓집멍카페",
+            "type": "카페",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 3
+        },
+        {
+            "name": "테라커피 역곡북부역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 12
+        },
+        {
+            "name": "조마루뼈다귀(역곡점)",
+            "type": "감자탕",
+            "address1": "",
+            "address2": "",
+            "rating": 2.7,
+            "review_count": 3
+        },
+        {
+            "name": "자매양꼬치",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 4.5,
+            "review_count": 11
+        },
+        {
+            "name": "존슨박스",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 4.0,
+            "review_count": 4
+        },
+        {
+            "name": "진램양꼬치 양갈비",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 1.0,
+            "review_count": 46
+        },
+        {
+            "name": "주카리비안",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "술반장포차",
+            "type": "실내포장마차",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "쏭스핫도그 부천역곡점",
+            "type": "패스트푸드",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 2
+        },
+        {
+            "name": "CF숯불바베큐치킨 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "우정다방",
+            "type": "다방",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "다모아양꼬치 소사점",
+            "type": "양꼬치",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 18
+        },
+        {
+            "name": "뚜레쥬르 역곡역남부점",
+            "type": "제과,베이커리",
+            "address1": "",
+            "address2": "",
+            "rating": 3.2,
+            "review_count": 7
+        },
+        {
+            "name": "아빠맘김밥 소사직영점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 9
+        },
+        {
+            "name": "부천시니어클럽CAFE어울",
+            "type": "양식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 1
+        },
+        {
+            "name": "동궁찜닭 부천소사점",
+            "type": "음식점",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "김밥천국 역곡역이편한세상점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 1
+        },
+        {
+            "name": "평양식손만두전골",
+            "type": "찌개,전골",
+            "address1": "",
+            "address2": "",
+            "rating": 3.8,
+            "review_count": 30
+        },
+        {
+            "name": "대치순대국",
+            "type": "순대",
+            "address1": "",
+            "address2": "",
+            "rating": 4.8,
+            "review_count": 8
+        },
+        {
+            "name": "이디야커피 역곡북부역점",
+            "type": "커피전문점",
+            "address1": "",
+            "address2": "",
+            "rating": 4.4,
+            "review_count": 11
+        },
+        {
+            "name": "카페(CAFE)어울 소사점",
+            "type": "중식",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "청솔생고기숯불구이",
+            "type": "육류,고기",
+            "address1": "",
+            "address2": "",
+            "rating": 4.3,
+            "review_count": 34
+        },
+        {
+            "name": "장터즉석치킨 역곡점",
+            "type": "치킨",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 4
+        },
+        {
+            "name": "뽕잎사랑 역곡점",
+            "type": "샤브샤브",
+            "address1": "",
+            "address2": "",
+            "rating": 2.0,
+            "review_count": 7
+        },
+        {
+            "name": "꼬꼬방",
+            "type": "술집",
+            "address1": "",
+            "address2": "",
+            "rating": 0.0,
+            "review_count": 0
+        },
+        {
+            "name": "펀비어킹",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 5
+        },
+        {
+            "name": "쑤니맥주",
+            "type": "호프,요리주점",
+            "address1": "",
+            "address2": "",
+            "rating": null,
+            "review_count": 1
+        },
+        {
+            "name": "한신우동 부천역곡점",
+            "type": "돈까스,우동",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 17
+        },
+        {
+            "name": "윤식당한식뷔페",
+            "type": "한식뷔페",
+            "address1": "",
+            "address2": "",
+            "rating": 5.0,
+            "review_count": 0
+        },
+        {
+            "name": "토마토김밥 역곡점",
+            "type": "분식",
+            "address1": "",
+            "address2": "",
+            "rating": 3.3,
+            "review_count": 1
+        },
+        {
+            "name": "도로시파스타연정 부천역곡점",
+            "type": "이탈리안",
+            "address1": "",
+            "address2": "",
+            "rating": 4.7,
+            "review_count": 2
+        }
+    ]
+}
