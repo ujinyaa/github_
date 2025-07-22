@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 CHROMEDRIVER_PATH = r'개인의 크롬드라이버 경로를 넣어주세요'
 KEYWORD = '부천 가톨릭대학교 근처 맛집'
-SAVE_PATH = 'Catholic/food_data.json'
+SAVE_PATH = 'Api_Map/food_data.json'
 
 service = Service(CHROMEDRIVER_PATH)
 driver = webdriver.Chrome(service=service)
