@@ -1,0 +1,10 @@
+# runs / logs / tensorboard
+logs/
+runs/
+E1_aria/*.png
+**/__pycache__/
+*.zip
+*.pt
+*.ckpt
+*.bin
+*.ipynb_checkpoints/
