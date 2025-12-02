@@ -10,7 +10,7 @@ GPT 기반 언어모델이 문법 규칙을 어떻게 내재화하고 일반화�
     - 두 조건 간 PPL(perplexity) 하락 속도와 수렴 패턴을 비교한다.
    두 파일을 각각 train : valid : test = 8 : 1 : 1 비율로 분할하여 저장하였다.
 
-2. E1 실험 - Fine-Tuning & PPL 
+2-1. E1 실험 - Fine-Tuning & PPL 
    ## 사용 데이터셋
    - Explicit (명시적 학습) : train_explicit.jsonl, val_explicit.jsonl
    - Implicit (암시적 학습) : train_implicit.jsonl, val_implicit.jsonl
@@ -21,20 +21,33 @@ GPT 기반 언어모델이 문법 규칙을 어떻게 내재화하고 일반화�
          - A. 기술형 규칙카드 (SOV 조건 고정 +  -ka 부착 조건 명시)롤 통해 모델이 규칙을 직접 암기하도록 유도 
          - B. 설명형 규칙카드 (자연언어 기반으로 서술형 설명 명시)를 통해 규칙을 이해하도록 유도
       - 두 조건 간의 PPL(perplexity) 하락 속도와 수렴 패턴을 비교한다. 
-   
+
       ## 결과 확인
-      - 학습 로그 및 곡선은 TensorBoard에서 시각화한다.
-      - 결과 그래프 저장 경로: C:\Users\User\PycharmProjects\CUK_NL_team3\E1_aria_test2
-
-      ## 일차적 파인튜닝 내용 요약
-      explicit_a_gpt2  - AVERAGE PPL (OK):        75.87561461595678
-      explicit_a_gpt2  - AVERAGE PPL (violation): 85.18195000460598
-      explicit_b_gpt2  - AVERAGE PPL (OK):        8.972814093168509
-      explicit_b_gpt2  - AVERAGE PPL (violation): 9.848269220502797
-      - OK 문장 기준으로 perplexity가 더 낮은 모델: explicit_b_gpt2 임을 확인할 수 있다.
+         - 학습 로그 및 곡선은 TensorBoard에서 시각화한다.
+         - 결과 그래프 저장 경로: C:\Users\User\PycharmProjects\CUK_NL_team3\E1_aria_test2   
+         1. Explicit 기본 a,b loss, lr 텐서보드
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST4\E1_arla_test2\explicit_a_train_loss.png" width="200" height="200"/>
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST4\E1_arla_test2\explicit_a_train_lr.png" width="200" height="200"/>
 
 
-3. E2 실험 - Grammaticality Judgment (PLL Accuracy)
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST4\E1_arla_test2\explicit_b_train_loss.png" width="200" height="200"/>
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST4\E1_arla_test2\explicit_b_train_lr.png"  width="200" height="200"/>
+         
+         기본내용?
+
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST4\E1_arla_test2\implicit_train_loss.png" width="200" height="200"/>
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST4\E1_arla_test2\implicit_train_lr.png"  width="200" height="200"/>
+
+
+      ## E1 일차적 파인튜닝 내용 요약
+         explicit_a PPL : 34.951825
+         explicit_b PPL : 28.831388
+         explicit PPL : 39.563864
+         - perplexity가 더 낮은 모델: explicit_b_gpt2 임을 확인할 수 있다.
+         implicit PPL : 39.401759
+
+
+2-2. E2 실험 - Grammaticality Judgment (PLL Accuracy)
    ## 사용 데이터셋
    - Explicit (명시적 학습) : test_arla.jsonl
    - Implicit (암시적 학습) : test_arla.jsonl
@@ -65,6 +78,76 @@ GPT 기반 언어모델이 문법 규칙을 어떻게 내재화하고 일반화�
       explicit_b : 0.293618
       implicit : 0.258584 
   -  분석 : 두 모델 모두 calibration은 좋은 편이 아니며, implicit이 약간 더 낮은 ECE를 보이지만, 전반적으로 확률 예측이 매우 확신 없어서 생기는 효과로 보인다. 
+
+
+======== 한종님 코드 돌린 내용 ============
+
+3-1. E1 실험 - Fine-Tuning & PPL 
+   ## 사용 데이터셋
+   - Explicit (명시적 학습) : train_explicit.jsonl, val_explicit.jsonl
+   - Implicit (암시적 학습) : train_implicit.jsonl, val_implicit.jsonl
+   - 학습 경로 : C:\Users\User\Desktop\VSCODE\CUK_NL_team3\scripts\train.py
+   
+   ## 실험 목적
+      - explicit 학습에 대해서는 두가지 방법을 사용해서 비교했다.
+      - 두 조건 간의 PPL(perplexity) 하락 속도와 수렴 패턴을 비교한다. 
+   
+      ## 결과 확인
+      - 학습 로그 및 곡선은 TensorBoard에서 시각화한다.
+      - 결과 그래프 저장 경로: C:\Users\User\Desktop\VSCODE\CUK_NL_team3\log
+      1. E1 Learning Curves
+      <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST6\results\E1_learning_curves.png" width="200" height="200"/>
+      2. 텐서보드 확인
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST6\log\explicit_tensorboard.png" width="200" height="200"/>
+         <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST6\log\implicit_tensorboard.png" width="200" height="200"/>
+      ## E1 일차적 파인튜닝 내용 요약
+      - 실험 결과 
+      explicit PPL : 25.500023
+      implicit PPL : 18.838428
+
+
+
+3-2. E2 실험 - Grammaticality Judgment (PLL Accuracy)
+   ## 사용 데이터셋
+   - Explicit (명시적 학습) : test_arla.jsonl
+   - Implicit (암시적 학습) : test_arla.jsonl
+   - 실행 경로 : C:\Users\User\Desktop\VSCODE\CUK_NL_team3\scripts\eval.py
+   ## 실험 목적
+   - 명시적/암시적 조건에서 학습한 모델의
+   - 일반화 성능 및 문법 판별 능력을 확인한다.
+   1. cmd 시각화
+      <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST6\log\cmd_Figure_1_explicit_grammer_error_detection.png" width="200" height="200"/>
+      <img src="C:\Users\lyjin\Documents\github\home\develop\CUK\CUK_NLP_team3\TEST6\log\cmd_Figure_1_imlicit_grammer_error_detection.png" width="200" height="200"/> 
+
+   ## AVG PPL
+   1. Explicit
+      - OK 문장: 92.80
+      - Violation 문장: 449.16 → OK < Violation이라 전반적으로 규칙은 구분함.
+   2. Implicit
+      - OK 문장: 86.77
+      - Violation 문장: 447.97 → explicit보다 OK 쪽 PPL이 더 낮고, Violation은 비슷하게 큼.
+      
+   
+   
+   ## Method 1 (BLiMP minimal pair, 영어 SVO 문장)
+   1. Explicit
+      - 정답 문장 PPL = 251.41
+      - 비문 PPL = 239.29 → 비문 쪽을 더 낮게 봐서 오답.
+   2. Implicit
+      - 정답 문장 PPL = 285.49
+      - 비문 PPL = 319.97 → 정답 문장을 더 자연스럽다고 판단(정답).
+      
+   
+   ## Method 2 (5지선다)
+   1. Explicit
+      - 1번(비문) PPL이 가장 낮아서 1번 선택 → 정답은 2번이라 또 오답.
+   2. Implicit   
+      - 2번(정답 문장)의 PPL이 가장 낮음 → 2번 선택, 정답.
+
+
+      → 요약: 인공어 테스트셋 전체에서는 OK/Violation을 잘 구분하지만, 영어 예시 minimal pair/MCQ에서는 아직 비문을 더 선호하는 실패 케이스가 존재.
+
+
 
    ## 최종 결과 
    - 전반적으로 explicit_b 학습이 우수하다.
