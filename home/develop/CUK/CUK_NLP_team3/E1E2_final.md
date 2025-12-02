@@ -89,8 +89,8 @@ GPT 기반 언어모델이 문법 규칙을 어떻게 내재화하고 일반화�
    - 학습 경로 : C:\Users\User\Desktop\VSCODE\CUK_NL_team3\scripts\train.py
    
    ## 실험 목적
-      - explicit 학습에 대해서는 두가지 방법을 사용해서 비교했다.
-      - 두 조건 간의 PPL(perplexity) 하락 속도와 수렴 패턴을 비교한다. 
+   - explicit 학습에 대해서는 두가지 방법을 사용해서 비교했다.
+   - 두 조건 간의 PPL(perplexity) 하락 속도와 수렴 패턴을 비교한다. 
    
       ## 결과 확인
       - 학습 로그 및 곡선은 TensorBoard에서 시각화한다.
